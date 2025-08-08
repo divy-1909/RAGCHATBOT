@@ -1,0 +1,8 @@
+
+streamlit==1.32.2
+sentence-transformers==2.2.2
+huggingface_hub==0.15.1
+faiss-cpu==1.7.4
+numpy==1.23.5
+torch==2.0.1
+transformers==4.33.2    
